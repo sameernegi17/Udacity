@@ -25,7 +25,7 @@ The above equation is the cost function, Our task is to minimize the cost functo
 ## Gradient Descent
 Imagine you are standing on a hill top and you want to take a small step to the direction of the steepest descent which can take you downhill as soon as possible. Gradient descent does the same. You start at a point apply gradient descent and end up at a new point and repeat the same until you reach to the minimum point.
 
-![alt text](./pic_4.jpg)
+![alt text](./pic_14.jpg)
 
 ## Normal Equation
 As gradient Descent is iterative apporach. The normal equations find the value of parameters(a) in one go.
