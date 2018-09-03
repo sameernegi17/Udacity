@@ -6,7 +6,7 @@ Now suppose you have the following Data.
 ![alt text](./pic_11.jpg)
 
 Now we will plot that data it will look like this
-![alt text](./chart_1.png)
+![alt text]("./chart_1.PNG)
 
 In the graph. x axis represents the area of the house while y axis represents the price. The variable is the x axis is also known as independent variable. The variable in the y axis is known as dependent variable. 
 If we try to fit a line through this data as below
