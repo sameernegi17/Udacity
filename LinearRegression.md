@@ -4,7 +4,7 @@ It models the relationship between two variables by fitting a line.
 
 Now suppose you have the following Data.
 Data: 
-![alt text](".\pic_1.jpg")
+![alt text](.\pic_1.jpg)
 
 Now we will plot that data it will look like this
 ![alt text]("chart_1.png")
