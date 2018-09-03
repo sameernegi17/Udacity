@@ -3,7 +3,7 @@
 It models the relationship between two variables by fitting a line.
 
 Now suppose you have the following Data.
-![alt text](./pic_1.jpg)
+![alt text](./pic_11.jpg)
 
 Now we will plot that data it will look like this
 ![alt text](./chart_1.png)
@@ -16,7 +16,7 @@ Now we can found a relationship between the housing area and cost. We can predic
 We know the equation of the lines as 
 Y = mx + c where c is intercept and m is the slope
 Now to generalize These are some annotation
-![alt text](./pic_2.jpg)
+![alt text](./pic_12.jpg)
 
 ![alt text](./pic_5.jpg)
 
